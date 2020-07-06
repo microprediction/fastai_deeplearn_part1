@@ -9,6 +9,7 @@
 * [KD Nuggets listing](https://www.kdnuggets.com/competitions/)
 * [International Data Analytics Olympiad](http://idao.world/)
 * [SpaceNet Competition: Road Detection and Routing](https://www.iqt.org/cosmiq-works-radiant-solutions-and-nvidia-announce-third-spacenettm-competition-road-detection-and-routing-challenge/#new_tab)
+* [Microprediction.Org](www.microprediction.org)
 
 ## Conference Competitions / Tasks
 * [NIPS Competition](https://nips.cc/Conferences/2018/CallForCompetitions)
